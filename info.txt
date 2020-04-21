@@ -1,0 +1,9 @@
+""""Welcome to the ARP Spoof Detector Tool""""
+---------------------------------------------------------------------------------------------------------------------------------------------
+This tool works on various different environments such as Windows, Linux and MacOS
+
+The main function of this tool is to detect if the user's system is under attack, by ARP spoofing and this is done by simply comparing the spoofed modified table's address with the previously available original address. So, if the addresses matches, the program won't display anything, otherwise the program shows that the system is under attack.
+
+After installing the tool, the user has to just run the program to check if the system is under attack or is secure from ARP spoofing attacks.
+
+Ex: python arp_spoof_detector.py
